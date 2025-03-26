@@ -42,7 +42,7 @@
 
 ## 📫 联系我
 
-<div align="center">
+<div align="left">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/youtwoothertwoo/youtwoothertwoo)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2422545779Q@qq.com)
